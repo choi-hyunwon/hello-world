@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d8e1e14-19c2-4663-bea2-a30a88820729" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1YF9uPSasv5sXh9oywSeU278JXR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kim\WebstormProjects\hello-world\my-rect" />
+      <recent name="C:\Users\kim\WebstormProjects\hello-world\my-rect\pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.deploy">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/my-rect/out/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="export" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="export" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="npm.export" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d8e1e14-19c2-4663-bea2-a30a88820729" name="Default Changelist" comment="" />
+      <created>1582527696964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582527696964</updated>
+      <workItem from="1582527698736" duration="1120000" />
+    </task>
+    <task id="LOCAL-00001" summary="gh test">
+      <created>1582528480190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582528480190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gh test" />
+    <option name="LAST_COMMIT_MESSAGE" value="gh test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="577" y="31" key="CommitChangelistDialog2" timestamp="1582528479367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="577" y="31" key="CommitChangelistDialog2/-1080.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1582528479367" />
+    <state width="1899" height="265" key="GridCell.Tab.0.bottom" timestamp="1582528659712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="265" key="GridCell.Tab.0.bottom/-1080.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1582528659712" />
+    <state width="1899" height="265" key="GridCell.Tab.0.center" timestamp="1582528659711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="265" key="GridCell.Tab.0.center/-1080.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1582528659711" />
+    <state width="1899" height="265" key="GridCell.Tab.0.left" timestamp="1582528659711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="265" key="GridCell.Tab.0.left/-1080.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1582528659711" />
+    <state width="1899" height="265" key="GridCell.Tab.0.right" timestamp="1582528659711">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="265" key="GridCell.Tab.0.right/-1080.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1582528659711" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1582528626496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1080.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1582528626496" />
+    <state x="643" y="260" width="633" height="520" key="find.popup" timestamp="1582527741763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="260" width="633" height="520" key="find.popup/-1080.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1582527741763" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582527744021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1080.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1582527744021" />
+  </component>
+</project>
